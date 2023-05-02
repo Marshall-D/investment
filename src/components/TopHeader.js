@@ -1,10 +1,10 @@
-import "../styles/TopHeader.css";
+import "../styles/Header.css";
 
 function TopHeader() {
   return (
     <div className="topHeader">
-    <div class="container">
-      <ul class="custom-header-languages">
+    <div className="container">
+      {/* <ul class="custom-header-languages">
         <li class="lang-item lang-item-49 lang-item-fr lang-item-first">
           <a
             lang="fr-FR"
@@ -23,11 +23,11 @@ function TopHeader() {
             en
           </a>
         </li>
-      </ul>
-      <div class="custom-header-sites-list">
+      </ul> */}
+      <div className="site_list">
         <span class="custom-header-sites-link">ALL BOA WEBSITES</span>
         <div class="custom-header-sites-dropdown">
-          <ul>
+          {/* <ul>
             <li>
               <a
                 href="https://www.boabenin.com/"
@@ -182,7 +182,7 @@ function TopHeader() {
                 BANK OF AFRICA MAROC
               </a>
             </li>
-          </ul>
+          </ul> */}
         </div>
       </div>
     </div>
