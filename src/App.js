@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import Header from './components/Header';
+import Mobile from './components/Mobile';
 
 function App() {
   return (
-    <div>
-     <Header/>
-    </div>
+    <body >
+      <Mobile/>
+    </body>
   );
 }
 
