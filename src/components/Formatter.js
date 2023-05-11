@@ -1,13 +1,14 @@
 
 import Mobile from './Mobile';
 import Footer from './Footer';
-import Home from '../Pages/Home';
+import { Outlet } from 'react-router-dom'
+
 
 function Formatter() {
   return (
     <body >
       <Mobile/>
-      <Home/>
+      <Outlet />
       <div style={{backgroundColor:"white"}}>
       <Footer/>
 

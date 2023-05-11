@@ -5,41 +5,51 @@ import "../styles/Mobile.css";
 function Mobile() {
     return (
       <div>
-        <div className="menu_close" ></div>
+        <div className="menu_close"></div>
 
         <div className="content2">
-        {/* <div 
+          {/* <div 
       className="phone"
       > */}
           <nav role="navigation">
-            <div 
-            id="menuToggle"
-            >
+            <div id="menuToggle">
               <input type="checkbox" />
-                <span></span>
-                <span></span>
-                <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
 
-            <ul 
-            id="menu"
-            >
-              <li><a href="#">Home</a></li>
-              <li><a href="#">SpaceX</a></li>
-              <li><a href="#">Tesla</a></li>
-              <li><a href="#">OpenAi</a></li>
-              <li><a href="#">NeuraLink</a></li>
-              <li><a href="#">TheBoringCompany</a></li>
-              <li><a href="#">Contact</a></li>
-              <li><a href="#">Invest</a></li>
-            </ul>
-           </div>
+              <ul id="menu">
+                <li>
+                <Link to="/home">Home</Link>
+                </li>
+                <li>
+                <Link to="/spacex">SpaceX</Link>
+                </li>
+                <li>
+                <Link to="/tesla">Tesla</Link>
+                </li>
+                <li>
+                <Link to="/openai">Openai</Link>
+                </li>
+                <li>
+                <Link to="/neuralink">NeuraLink</Link>
+                </li>
+                <li>
+                <Link to="/theboringcompany">Theboringcompany</Link>
+                </li>
+                <li>
+                <Link to="/contact">Contact</Link>
+                </li>
+                <li>
+                <Link to="/invest">Invest</Link>
+                </li>
+              </ul>
+            </div>
           </nav>
           {/* </div> */}
-          <div  className='text_div'>
-          <p className='texts'> Elon Investment</p>
-
+          <div className="text_div">
+            <p className="texts"> Elon Investments</p>
           </div>
-
         </div>
         {/*  <div className="menu" style={{width: "290px"}}>
           <div
