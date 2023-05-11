@@ -24,9 +24,13 @@ function Mobile() {
             id="menu"
             >
               <li><a href="#">Home</a></li>
-              <li><a href="#">About</a></li>
-              <li><a href="#">Info</a></li>
+              <li><a href="#">SpaceX</a></li>
+              <li><a href="#">Tesla</a></li>
+              <li><a href="#">OpenAi</a></li>
+              <li><a href="#">NeuraLink</a></li>
+              <li><a href="#">TheBoringCompany</a></li>
               <li><a href="#">Contact</a></li>
+              <li><a href="#">Invest</a></li>
             </ul>
            </div>
           </nav>

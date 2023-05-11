@@ -1,11 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
-import Mobile from './components/Mobile';
+import Formatter from './components/Formatter';
+
 
 function App() {
   return (
     <body >
-      <Mobile/>
+      <Formatter/>
+      
     </body>
   );
 }
