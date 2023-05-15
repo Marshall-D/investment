@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function Openai() {
     return (
       <div>
-        <div>
+        <div className="adjust_view">
           <div>
             <img
               src="
@@ -21,13 +21,16 @@ function Openai() {
                 <div class="col-12-sm col-8-md md-center col-5">
                   <h2>INVEST IN OPENAI & NEURALINK </h2>
                   <p>
-                    With Starlink, users can engage in activities that
-                    historically have not been possible with satellite internet.
+                    Introducing GPT-4, OpenAI’s most advanced system. We’ve
+                    trained a model called ChatGPT which interacts in a
+                    conversational way. The dialogue format makes it possible
+                    for ChatGPT to answer follow-up questions, admit its
+                    mistakes, challenge incorrect premises, and reject
+                    inappropriate requests.
                   </p>
                   <p>
-                    Starlink’s high-speed, low-latency service is made possible
-                    via the world’s largest constellation of highly advanced
-                    satellites operating in a low orbit around the Earth.
+                    Invest as low as $600 and be a part of this great vision and
+                    opportunity to get rich and make some money.
                   </p>
                   <div className="link-container">
                     <Link
@@ -42,7 +45,7 @@ function Openai() {
             </div>
           </div>
         </div>{" "}
-        <div>
+        <div className="adjust_view">
           <div>
             <img
               src="
@@ -58,16 +61,15 @@ function Openai() {
                 <div class="col-12-sm col-8-md md-center col-5">
                   <h2>INVEST IN OPENAI & NEURALINK </h2>
                   <p>
-                    With Starlink, users can engage in activities that
-                    historically have not been possible with satellite internet.
+                    We research generative models and how to align them with
+                    human values.
                   </p>
                   <p>
-                    Starlink’s high-speed, low-latency service is made possible
-                    via the world’s largest constellation of highly advanced
-                    satellites operating in a low orbit around the Earth.
+                    Invest as low as $600 and be a part of this great vision and
+                    opportunity to get rich and make some money.
                   </p>
                   <div className="link-container">
-                  <Link
+                    <Link
                       to="https://form.jotform.com/231312771736252"
                       className="invest_text"
                     >
@@ -79,7 +81,7 @@ function Openai() {
             </div>
           </div>
         </div>{" "}
-        <div>
+        <div className="adjust_view">
           <div>
             <img
               src="
@@ -95,16 +97,18 @@ function Openai() {
                 <div class="col-12-sm col-8-md md-center col-5">
                   <h2>INVEST IN OPENAI & NEURALINK </h2>
                   <p>
-                    With Starlink, users can engage in activities that
-                    historically have not been possible with satellite internet.
+                    There Are 86 Billion Neurons in Your Brain Neurons send and
+                    receive information. Although neurons come in many different
+                    types, they generally have three parts: a dendrite which
+                    receives a signal, a cell body called a soma which computes
+                    the signal, and an axon which sends a signal out
                   </p>
                   <p>
-                    Starlink’s high-speed, low-latency service is made possible
-                    via the world’s largest constellation of highly advanced
-                    satellites operating in a low orbit around the Earth.
+                    Invest as low as $600 and be a part of this great vision and
+                    opportunity to get rich and make some money.
                   </p>
                   <div className="link-container">
-                  <Link
+                    <Link
                       to="https://form.jotform.com/231312771736252"
                       className="invest_text"
                     >
@@ -116,7 +120,7 @@ function Openai() {
             </div>
           </div>
         </div>
-        <div>
+        <div className="adjust_view">
           <div>
             <img
               src="
@@ -131,16 +135,20 @@ function Openai() {
                 <div class="col-12-sm col-8-md md-center col-5">
                   <h2>INVEST IN OPENAI & NEURALINK </h2>
                   <p>
-                    With Starlink, users can engage in activities that
-                    historically have not been possible with satellite internet.
+                    Breakthrough Technology for the Brain. We’re aiming to
+                    design a fully implantable, cosmetically invisible
+                    brain-computer interface to let you control a computer or
+                    mobile device anywhere you go. Micron-scale threads would be
+                    inserted into areas of the brain that control movement. Each
+                    thread contains many electrodes and connects them to an
+                    implant called the “Link.”
                   </p>
                   <p>
-                    Starlink’s high-speed, low-latency service is made possible
-                    via the world’s largest constellation of highly advanced
-                    satellites operating in a low orbit around the Earth.
+                    Invest as low as $600 and be a part of this great vision and
+                    opportunity to get rich and make some money.
                   </p>
                   <div className="link-container">
-                  <Link
+                    <Link
                       to="https://form.jotform.com/231312771736252"
                       className="invest_text"
                     >

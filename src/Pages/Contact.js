@@ -73,7 +73,7 @@ function Contact(props) {
                                 whatsapp within 24 hrs.
                                 <br />
                                 For urgent inquiry do contact us via WhatsApp
-                                :&nbsp;+1 (256) 398‑1089
+                                :&nbsp;+1(617)2862459
                               </p>
                             </div>
                             <div></div>

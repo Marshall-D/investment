@@ -3,50 +3,13 @@ import { Link } from "react-router-dom";
 
 function Tesla() {
     return (
-      <div >
-       <div>
-          <div className="image_viewer">
-            
-            {/* <img
-              src="
-          
-              className="div_container"
-            /> */}
-          </div>
-          <div className="div_container">
-            <div className="div_text">
-              <div class="row">
-                <div class="hidden-sm hidden-md col-7"></div>
-                <div class="col-12-sm col-8-md md-center col-5">
-                  <h2>INVEST IN TESLA </h2>
-                  <p>
-                    With Starlink, users can engage in activities that
-                    historically have not been possible with satellite internet.
-                  </p>
-                  <p>
-                    Starlink’s high-speed, low-latency service is made possible
-                    via the world’s largest constellation of highly advanced
-                    satellites operating in a low orbit around the Earth.
-                  </p>
-                  <div className="link-container">
-                  <Link
-                      to="https://form.jotform.com/231312771736252"
-                      className="invest_text"
-                    >
-                      INVEST NOW
-                    </Link>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div>
+      <div>
+        <div className="adjust_view">
           <div>
             <img
               src="
-              https://digitalassets.tesla.com/tesla-contents/image/upload/h_2400,w_2880,c_fit,f_auto,q_auto:best/Homepage-Model-Y-Global-Desktop
-              "
+              https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto:best/Model-S-homepage-desktop                
+               "
               className="div_container"
             />
           </div>
@@ -57,16 +20,19 @@ function Tesla() {
                 <div class="col-12-sm col-8-md md-center col-5">
                   <h2>INVEST IN TESLA </h2>
                   <p>
-                    With Starlink, users can engage in activities that
-                    historically have not been possible with satellite internet.
+                    Interior of the Future.A 17” touchscreen with left-right
+                    tilt offers 2200 x 1300 resolution, true colors and
+                    exceptional responsiveness for gaming, movies and more. A
+                    17” touchscreen with left-right tilt offers 2200 x 1300
+                    resolution, true colors and exceptional responsiveness for
+                    gaming, movies and more.
                   </p>
                   <p>
-                    Starlink’s high-speed, low-latency service is made possible
-                    via the world’s largest constellation of highly advanced
-                    satellites operating in a low orbit around the Earth.
+                    Invest as low as $600 and be a part of this great vision and
+                    opportunity to get rich and make some money.
                   </p>
                   <div className="link-container">
-                  <Link
+                    <Link
                       to="https://form.jotform.com/231312771736252"
                       className="invest_text"
                     >
@@ -78,7 +44,8 @@ function Tesla() {
             </div>
           </div>
         </div>
-        <div>
+
+        <div className="adjust_view">
           <div>
             <img
               src="
@@ -93,16 +60,21 @@ function Tesla() {
                 <div class="col-12-sm col-8-md md-center col-5">
                   <h2>INVEST IN TESLA </h2>
                   <p>
-                    With Starlink, users can engage in activities that
-                    historically have not been possible with satellite internet.
+                    Model S Plaid has the quickest acceleration of any vehicle
+                    in production. Updated battery architecture for all Model S
+                    trims enables back-to-back track runs without performance
+                    degradation. Model S platforms unite powertrain and battery
+                    technologies for unrivaled performance, range and
+                    efficiency. New module and pack thermal architecture allows
+                    faster charging and gives you more power and endurance in
+                    all conditions.
                   </p>
                   <p>
-                    Starlink’s high-speed, low-latency service is made possible
-                    via the world’s largest constellation of highly advanced
-                    satellites operating in a low orbit around the Earth.
+                    Invest as low as $600 and be a part of this great vision and
+                    opportunity to get rich and make some money.
                   </p>
                   <div className="link-container">
-                  <Link
+                    <Link
                       to="https://form.jotform.com/231312771736252"
                       className="invest_text"
                     >
@@ -114,7 +86,6 @@ function Tesla() {
             </div>
           </div>
         </div>
-        
       </div>
     );
   }
