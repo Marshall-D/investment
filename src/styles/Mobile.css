@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&family=Roboto:wght@300&display=swap');
 
-
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&family=Recursive:wght@1000&family=Roboto:wght@300&display=swap');
 
 a {
     text-decoration: none;
@@ -157,7 +157,8 @@ font-size: 40px;
     margin-right: 30px ;
     color: #ffffff;
     font-family: 'Open Sans', sans-serif;
-    font-family: 'Roboto', sans-serif;
+font-family: 'Recursive', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 
 /* .text_div {

@@ -45,7 +45,7 @@ function Mobile() {
             </div>
           </nav>
           {/* </div> */}
-          <div className="text_div">
+          <div >
             <p className="texts"> Elon Investments</p>
           </div>
         </div>

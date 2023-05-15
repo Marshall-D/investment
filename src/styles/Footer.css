@@ -262,3 +262,16 @@
     font-family: 'Open Sans', sans-serif;
     font-family: 'Roboto', sans-serif;
 }
+
+@media screen and (width > 1000px) {
+  
+.custom_footer {
+    display: inline-flex;
+   
+}
+.custom_texts{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+}

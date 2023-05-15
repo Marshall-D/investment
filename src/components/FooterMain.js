@@ -12,10 +12,10 @@ function FooterMain() {
         className="content_info"
       >
         <div className="custom_footer">
-        <p>+16172862459</p>{" "}
+          <p className=" custom_texts">+16172862459</p> 
+          <p className=" custom_texts">Copyright © 2019-2023. All Rights Reserved.</p>
 
-          <p>elonivest622@gmail.com</p>
-          <p>Copyright © 2019-2023. All Rights Reserved.</p>
+          <p className=" custom_texts">elonivest622@gmail.com</p>
         </div>
       </footer>
     </div>
