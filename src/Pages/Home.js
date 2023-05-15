@@ -4,7 +4,7 @@ import "../styles/Home.css";
   function Home() {
     return (
       <div>
-        <div>
+        <div style={{position:"relative"}}>
           <img
             src="
             https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/Homepage-Model-X-Desktop-LHD          "
@@ -24,7 +24,7 @@ import "../styles/Home.css";
             </Link>
           </div>
         </div>
-        <div>
+        <div style={{position:"relative"}}>
           <img
             src="
             https://sxcontent9668.azureedge.us/cms-assets/assets/Haven1_Hero_5_2600x1400_a23f540f5f.jpg            "
@@ -46,7 +46,7 @@ import "../styles/Home.css";
           </div>
         </div>
 
-        <div>
+        <div style={{position:"relative"}}>
           <img
             src="
           https://d33wubrfki0l68.cloudfront.net/2ee43d22ee90a88ffe3a36a6ace4c7f36835b52e/fe18d/images/pages/green-mobile-hero.png          "
@@ -69,7 +69,7 @@ import "../styles/Home.css";
             </Link>
           </div>
         </div>
-        <div>
+        <div style={{position:"relative"}}>
           <img
             src="
           https://images.squarespace-cdn.com/content/v1/6063b0835f68896079d7d643/1617908516380-MGDSF238F46LA8HAN8ZQ/LVCC%2BLoop%2BHero%2B2_April%2B2021.jpg?format=2500w"
