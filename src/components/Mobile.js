@@ -20,7 +20,7 @@ function Mobile() {
 
               <ul id="menu">
                 <li>
-                <Link to="/home">Home</Link>
+                <Link to="/">Home</Link>
                 </li>
                 <li>
                 <Link to="/spacex">SpaceX</Link>
@@ -29,11 +29,9 @@ function Mobile() {
                 <Link to="/tesla">Tesla</Link>
                 </li>
                 <li>
-                <Link to="/openai">Openai</Link>
+                <Link to="/openai">Openai & NeuraLink</Link>
                 </li>
-                <li>
-                <Link to="/neuralink">NeuraLink</Link>
-                </li>
+              
                 <li>
                 <Link to="/theboringcompany">Theboringcompany</Link>
                 </li>
@@ -41,7 +39,7 @@ function Mobile() {
                 <Link to="/contact">Contact</Link>
                 </li>
                 <li>
-                <Link to="/invest">Invest</Link>
+                <Link to="https://form.jotform.com/231312771736252">Invest</Link>
                 </li>
               </ul>
             </div>

@@ -2,6 +2,7 @@
 import Mobile from './Mobile';
 import Footer from './Footer';
 import { Outlet } from 'react-router-dom'
+import FooterMain from './FooterMain';
 
 
 function Formatter() {
@@ -13,6 +14,7 @@ function Formatter() {
       <Footer/>
 
       </div>
+      <FooterMain/>
 
     </body>
   );

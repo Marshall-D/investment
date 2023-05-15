@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&family=Roboto:wght@300&display=swap');
+
+
+.div_container {
+    height: 500px;
+    z-index: 10;
+    /* width: 10em; */
+    display: block;
+    width: 100%;
+    /* background-image: url("https://sxcontent9668.azureedge.us/cms-assets/assets/Star5_6_DSC_2777_desktop_19c3b97615.jpg") */
+}
+
+.div_text {
+    -webkit-text-size-adjust: 100%;
+    text-align: left;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 400;
+    font-style: normal;
+    width: 88.5%;
+    margin: 0 auto;
+    display: flex;
+    box-sizing: border-box;
+    color: #fff;
+    padding: 40px 0;
+    min-height: 0;
+    align-items: flex-start;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.invest_text {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+
+
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    min-height: 50px;
+    border-radius: 4px;
+    outline: none;
+    background: transparent;
+    padding: .625rem 1.25rem;
+    border: 2px solid #fff;
+    min-width: 10.375rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    box-sizing: border-box;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 1rem;
+}
+
+.link-container {
+    -webkit-text-size-adjust: 100%;
+    text-align: left;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #fff;
+    display: flex;
+    margin-top: 40px;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.image_viewer {
+    background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/Homepage-Model-X-Desktop-LHD");
+    /* height: 500px;
+    z-index: 10;
+    display: block;
+    width: 100%; */
+}

@@ -1,4 +1,5 @@
 
+import { Link } from "react-router-dom";
 import "../styles/Home.css";
   function Home() {
     return (
@@ -6,7 +7,7 @@ import "../styles/Home.css";
         <div>
           <img
             src="
-          https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto:best/Model-S-homepage-mobile"
+            https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/Homepage-Model-X-Desktop-LHD          "
             className="bg_img"
           />
           <div className="text-on-image">
@@ -14,13 +15,19 @@ import "../styles/Home.css";
               {" "}
               Invest and get returns as early as a week{" "}
             </p>
-            <p className="text-on-image_div"> Find out More </p>
+            <Link to="/tesla">
+
+            <p className="text-on-image_div"> Find out More </p></Link>
+            <Link to="https://form.jotform.com/231312771736252" >
             <h3 className="text-on-image_div"> Invest in Tesla </h3>
+
+            </Link>
           </div>
         </div>
         <div>
           <img
-            src="https://sxcontent9668.azureedge.us/cms-assets/assets/Launch_Page_Starlink1_vertical_18_MOBILE_9e8b680147.jpg"
+            src="
+            https://sxcontent9668.azureedge.us/cms-assets/assets/Haven1_Hero_5_2600x1400_a23f540f5f.jpg            "
             className="bg_img"
           />
           <div className="text-on-image2">
@@ -28,8 +35,14 @@ import "../styles/Home.css";
               {" "}
               Invest and get returns as early as a week{" "}
             </p>
+            <Link to="/spacex">
+
             <p className="text-on-image_div2"> Find out More </p>
+            </Link>
+            <Link to="https://form.jotform.com/231312771736252" >
             <h3 className="text-on-image_div2"> Invest in Spacex </h3>
+
+            </Link>
           </div>
         </div>
 
@@ -44,11 +57,16 @@ import "../styles/Home.css";
               {" "}
               Invest and get returns as early as a week{" "}
             </p>
+            <Link to="/openai">
             <p className="text-on-image_div3"> Find out More </p>
+            </Link>
+         
+            <Link to="https://form.jotform.com/231312771736252" >
             <h3 className="text-on-image_div3">
               {" "}
               Invest in NeuraLink and Open AI{" "}
             </h3>
+            </Link>
           </div>
         </div>
         <div>
@@ -62,11 +80,17 @@ import "../styles/Home.css";
               {" "}
               Invest and get returns as early as a week{" "}
             </p>
+            <Link to="/theboringcompany">
+
             <p className="text-on-image_div4"> Find out More </p>
+            </Link>
+           
+            <Link to="https://form.jotform.com/231312771736252" >
             <h3 className="text-on-image_div4">
               {" "}
               Invest in The Boring Company{" "}
             </h3>
+            </Link>
           </div>
         </div>
       </div>

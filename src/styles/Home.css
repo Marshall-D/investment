@@ -6,7 +6,9 @@
     z-index: 10;
     /* width: 10em; */
     display: block;
-    width: 100%;
+    width:100%;
+    /* position: absolute; */
+    clip-path: rect(100px, 100px, 200px, 0);
     /* background-image: url("https://sxcontent9668.azureedge.us/cms-assets/assets/Star5_6_DSC_2777_desktop_19c3b97615.jpg") */
 }
 
@@ -31,7 +33,7 @@
     /* font-weight: 100px; */
     line-height: 38px !important;
     color: black;
-    margin: 0px !important;
+    margin: 10px !important;
     text-transform: uppercase;
     z-index: 10000;
 }
@@ -54,7 +56,7 @@
     /* font-weight: 100px; */
     line-height: 38px !important;
     color: white;
-    margin: 0px !important;
+    margin: 10px !important;
     text-transform: uppercase;
     z-index: 10000;
 
@@ -76,7 +78,7 @@
     font-style: normal;
     cursor: pointer;
     overflow: hidden;
-    display: inline-block;
+    display: block;
     color: black;
     text-decoration: none;
     position: relative;
@@ -100,7 +102,7 @@
     font-style: normal;
     cursor: pointer;
     overflow: hidden;
-    display: inline-block;
+    display: block;
     color: white;
     text-decoration: none;
     position: relative;
@@ -124,7 +126,7 @@
     font-style: normal;
     cursor: pointer;
     overflow: hidden;
-    display: inline-block;
+    display: block;
     color: white;
     text-decoration: none;
     position: relative;
@@ -146,14 +148,13 @@
     top: 300.3%;
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
-    font: 16px/24px Arial, Verdana, sans-serif;
     text-align: left;
     font-size: 20px !important;
     font-style: normal;
     /* font-weight: 100px; */
     line-height: 38px !important;
     color: white;
-    margin: 0px !important;
+    margin: 10px !important;
     text-transform: uppercase;
     z-index: 10000;
 
@@ -174,7 +175,7 @@
     font-style: normal;
     cursor: pointer;
     overflow: hidden;
-    display: inline-block;
+    display: block;
     color: black;
     text-decoration: none;
     position: relative;
@@ -204,10 +205,15 @@
     /* font-weight: 100px; */
     line-height: 38px !important;
     color: black;
-    margin: 0px !important;
+    margin: 10px !important;
     text-transform: uppercase;
     z-index: 10000;
 
 
 
 }
+.clip {
+    position: absolute;
+    clip: rect(0, 100px, 200px, 0);
+    /* clip: shape(top, right, bottom, left); NB 'rect' is the only available option */
+  }
