@@ -66,7 +66,7 @@ function Contact(props) {
                           <div>
                             <div>
                               <p>
-                                For general inquiry about ELon Investments
+                                For general inquiry about  Investments
                                 complete the form below.
                                 <br />
                                 We will usually get back to you via email or

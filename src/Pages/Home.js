@@ -19,7 +19,7 @@ import "../styles/Home.css";
 
             <p className="text-on-image_div"> Find out More </p></Link>
             <Link to="https://form.jotform.com/231312771736252" >
-            <h3 className="text-on-image_div"> Invest in Tesla </h3>
+            <h3 className="text-on-image_div"> Invest in Cars </h3>
 
             </Link>
           </div>
@@ -40,7 +40,7 @@ import "../styles/Home.css";
             <p className="text-on-image_div2"> Find out More </p>
             </Link>
             <Link to="https://form.jotform.com/231312771736252" >
-            <h3 className="text-on-image_div2"> Invest in Spacex </h3>
+            <h3 className="text-on-image_div2"> Invest in Rockets </h3>
 
             </Link>
           </div>
@@ -64,7 +64,7 @@ import "../styles/Home.css";
             <Link to="https://form.jotform.com/231312771736252" >
             <h3 className="text-on-image_div3">
               {" "}
-              Invest in NeuraLink and Open AI{" "}
+              Invest  AI{" "}
             </h3>
             </Link>
           </div>

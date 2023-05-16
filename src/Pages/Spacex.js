@@ -18,7 +18,7 @@ import { Link } from "react-router-dom";
               <div class="row">
                 <div class="hidden-sm hidden-md col-7"></div>
                 <div class="col-12-sm col-8-md md-center col-5">
-                  <h2>INVEST IN SPACEX </h2>
+                  <h2>INVEST IN ROCKETS </h2>
                   <p>
                     STARSHIP SERVICE TO EARTH ORBIT, MOON, MARS AND
                     BEYOND.ON-ORBIT REFILLING. Starship leverages tanker
@@ -62,7 +62,7 @@ import { Link } from "react-router-dom";
               <div class="row">
                 <div class="hidden-sm hidden-md col-7"></div>
                 <div class="col-12-sm col-8-md md-center col-5">
-                  <h2>INVEST IN SPACEX </h2>
+                  <h2>INVEST IN ROCKETS </h2>
                   <p>
                     Falcon 9 is a reusable, two-stage rocket designed and
                     manufactured by SpaceX for the reliable and safe transport
@@ -105,7 +105,7 @@ import { Link } from "react-router-dom";
               <div class="row">
                 <div class="hidden-sm hidden-md col-7"></div>
                 <div class="col-12-sm col-8-md md-center col-5">
-                  <h2>INVEST IN SPACEX </h2>
+                  <h2>INVEST IN ROCKETS </h2>
                   <p>
                     FALCON 9 FIRST ORBITAL CLASS ROCKET CAPABLE OF REFLIGHT.222
                     TOTAL LAUNCHES, 180 TOTAL LANDINGS, 157 TOTAL REFLIGHTS.

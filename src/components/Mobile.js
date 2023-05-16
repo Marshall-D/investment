@@ -22,13 +22,13 @@ function Mobile() {
                 <Link to="/">Home</Link>
                 </li>
                 <li>
-                <Link to="/spacex">SpaceX</Link>
+                <Link to="/spacex">Rockets</Link>
                 </li>
                 <li>
-                <Link to="/tesla">Tesla</Link>
+                <Link to="/tesla">Cars</Link>
                 </li>
                 <li>
-                <Link to="/openai">Openai & NeuraLink</Link>
+                <Link to="/openai">AI</Link>
                 </li>
               
                 <li>
@@ -45,7 +45,7 @@ function Mobile() {
           </nav>
           {/* </div> */}
           <div >
-            <p className="texts"> Elon Investments</p>
+            <p className="texts"> My Investments</p>
           </div>
         </div>
         

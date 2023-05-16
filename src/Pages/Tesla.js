@@ -18,7 +18,7 @@ function Tesla() {
               <div class="row">
                 <div class="hidden-sm hidden-md col-7"></div>
                 <div class="col-12-sm col-8-md md-center col-5">
-                  <h2>INVEST IN TESLA </h2>
+                  <h2>INVEST IN CARS </h2>
                   <p>
                     Interior of the Future.A 17” touchscreen with left-right
                     tilt offers 2200 x 1300 resolution, true colors and
@@ -58,7 +58,7 @@ function Tesla() {
               <div class="row">
                 <div class="hidden-sm hidden-md col-7"></div>
                 <div class="col-12-sm col-8-md md-center col-5">
-                  <h2>INVEST IN TESLA </h2>
+                  <h2>INVEST IN CARS </h2>
                   <p>
                     Model S Plaid has the quickest acceleration of any vehicle
                     in production. Updated battery architecture for all Model S

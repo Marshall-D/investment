@@ -19,7 +19,7 @@ function Openai() {
               <div class="row">
                 <div class="hidden-sm hidden-md col-7"></div>
                 <div class="col-12-sm col-8-md md-center col-5">
-                  <h2>INVEST IN OPENAI & NEURALINK </h2>
+                  <h2>INVEST IN AI </h2>
                   <p>
                     Introducing GPT-4, OpenAI’s most advanced system. We’ve
                     trained a model called ChatGPT which interacts in a
@@ -59,7 +59,7 @@ function Openai() {
               <div class="row">
                 <div class="hidden-sm hidden-md col-7"></div>
                 <div class="col-12-sm col-8-md md-center col-5">
-                  <h2>INVEST IN OPENAI & NEURALINK </h2>
+                  <h2>INVEST IN AI </h2>
                   <p>
                     We research generative models and how to align them with
                     human values.
@@ -95,7 +95,7 @@ function Openai() {
               <div class="row">
                 <div class="hidden-sm hidden-md col-7"></div>
                 <div class="col-12-sm col-8-md md-center col-5">
-                  <h2>INVEST IN OPENAI & NEURALINK </h2>
+                  <h2>INVEST IN AI </h2>
                   <p>
                     There Are 86 Billion Neurons in Your Brain Neurons send and
                     receive information. Although neurons come in many different
@@ -133,7 +133,7 @@ function Openai() {
               <div class="row">
                 <div class="hidden-sm hidden-md col-7"></div>
                 <div class="col-12-sm col-8-md md-center col-5">
-                  <h2>INVEST IN OPENAI & NEURALINK </h2>
+                  <h2>INVEST IN AI </h2>
                   <p>
                     Breakthrough Technology for the Brain. We’re aiming to
                     design a fully implantable, cosmetically invisible
