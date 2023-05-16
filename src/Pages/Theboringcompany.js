@@ -37,6 +37,7 @@ function Theboringcompany() {
                     <Link
                       to="https://form.jotform.com/231312771736252"
                       className="invest_text"
+                      style={{zIndex:"200"}}
                     >
                       INVEST NOW
                     </Link>

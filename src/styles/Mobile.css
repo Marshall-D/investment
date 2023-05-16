@@ -45,11 +45,13 @@ ul {
 .content2 {
     /* border: 1px solid #36383F; */
     /* border-radius: 20px; */
-    width: 94%;
-    height: 91%;
+    width: 100%;
+    height: auto;
     background-color: black;
     /* overflow: hidden; */
-    margin-top: 1em;
+    /* margin-top: 1em; */
+    position: fixed;
+    z-index: 1000;
 
 
 }

@@ -8,8 +8,13 @@ import FooterMain from './FooterMain';
 function Formatter() {
   return (
     <body >
+      <div>
       <Mobile/>
-      <Outlet />
+
+      </div>
+     <div style={{paddingTop:"200px"}}>
+     <Outlet />
+      </div>
       <div style={{backgroundColor:"white"}}>
       <Footer/>
 

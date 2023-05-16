@@ -35,7 +35,7 @@
     color: black;
     margin: 10px !important;
     text-transform: uppercase;
-    z-index: 10000;
+    /* z-index: 10000; */
 }
 
 .text-on-image2 {
@@ -58,7 +58,7 @@
     color: white;
     margin: 10px !important;
     text-transform: uppercase;
-    z-index: 10000;
+    /* z-index: 10000; */
 
 
 
@@ -156,7 +156,7 @@
     color: white;
     margin: 10px !important;
     text-transform: uppercase;
-    z-index: 10000;
+    /* z-index: 10000; */
 
 
 
@@ -207,7 +207,7 @@
     color: black;
     margin: 10px !important;
     text-transform: uppercase;
-    z-index: 10000;
+    /* z-index: 10000; */
 
 
 
