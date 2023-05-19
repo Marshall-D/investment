@@ -3,6 +3,12 @@ import "../styles/Mobile.css";
 // import "../styles/animation.css";
 
 function Mobile() {
+  
+const reload = () =>{
+  window.location.reload(false);
+
+
+}
     return (
       <div>
 
@@ -17,12 +23,13 @@ function Mobile() {
               <span></span>
               <span></span>
 
-              <ul id="menu">
-                <li>
-                <Link to="/">Home</Link>
+              <ul id="menu" onClick={reload}>
+                <li  >
+                <Link  to="/"> Home</Link>
                 </li>
-                <li>
-                <Link to="/spacex">Rockets</Link>
+                <li >
+            
+                <Link  to="/spacex">Rockets  </Link>
                 </li>
                 <li>
                 <Link to="/tesla">Cars</Link>
